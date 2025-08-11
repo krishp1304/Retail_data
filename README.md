@@ -18,7 +18,7 @@ Histogram for customer ages
 Built dashboards in Excel and Power BI.
 
 Power BI Dashboard
-https://drive.google.com/file/d/1_VABFOCPfEowfxR0B_DHLCPn3Jn9GpV1/view?usp=sharing
+https://drive.google.com/uc?export=download&id=1_VABFOCPfEowfxR0B_DHLCPn3Jn9GpV1
 
 Tools Used
 Python (Pandas, Matplotlib, Seaborn)
